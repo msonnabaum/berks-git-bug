@@ -1,5 +1,5 @@
 source "https://api.berkshelf.com"
 
-#metadata
+metadata
 
 cookbook "kafka", git: "https://github.com/mthssdrbrg/kafka-cookbook.git"
